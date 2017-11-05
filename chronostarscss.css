@@ -20,6 +20,43 @@ h1 {
 	font-size: 35px;
 	font-family: cuprum;
 	position: absolute;
-	top:35%;
+	top:25%;
 	left:25%;
+}
+/* the thing that pops up */
+.popup {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 50%;
+    height: 50%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+}
+/* content of the thing that pops up */
+.popup-content {
+    background-color: #eeeeee;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+/* i am only closed */
+.close {
+    color: #aaaaaa; /* this is also just me screaming */
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
 }
