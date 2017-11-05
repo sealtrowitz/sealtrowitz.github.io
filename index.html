@@ -80,13 +80,14 @@ window.onclick = function(event) {
         modal.style.display = "none";
     }
     
-    for (var i = 0; i < btn.length; i++) {
+var btn = document.getElementsByClassName("mainNav");
+
+for (var i = 0; i < btn.length; i++) {
   var thisBtn = btn[i];
   thisBtn.addEventListener("click", function(){
     var modal = document.getElementById(this.dataset.modal);
     modal.style.display = "block";
 }, false);
-}
 </script>
 
 </body>
