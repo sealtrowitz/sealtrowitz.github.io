@@ -18,10 +18,10 @@ body {
 }
 h1 {
 	color: #000;
-	text-decoration: italic;
-	display: inline-block;
 	font-size: 60px;
 	font-family: cuprum;
+	text-decoration: italic;
+	text-shadow: 3px 4px #eee;
 	position: absolute;
 	top:50%;
 	left:50%;
