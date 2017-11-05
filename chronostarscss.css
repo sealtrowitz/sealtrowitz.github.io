@@ -24,7 +24,7 @@ h1 {
 	left:25%;
 }
 /* the thing that pops up */
-.popup {
+.modal {
     display: none;
     position: fixed;
     z-index: 1;
@@ -38,7 +38,7 @@ h1 {
     background-color: rgba(0,0,0,0.4);
 }
 /* content of the thing that pops up */
-.popup-content {
+.modal-content {
     background-color: #eeeeee;
     margin: auto;
     padding: 20px;
