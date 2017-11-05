@@ -1,10 +1,5 @@
-html {
-	height: 100%;
-}
-
 body {
     background: #ffffff url("chronobg.png") repeat;
-    height: 100%;
 }
 /*the sun*/
 .toppleking {
@@ -13,6 +8,7 @@ body {
     box-shadow: 0px 0px 15px 5px #eee;
     border-radius: 50%;
     background-color: #FFF;
+    padding: 20px;
     position: absolute;
     top: 50%;
     left: 50%;
