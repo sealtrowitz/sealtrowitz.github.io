@@ -86,9 +86,9 @@ h2 {
         line-height: 25px;
         position: absolute;
         right: -12px;
-        text-align: center;
         top: -10px;
         width: 24px;
+	    overflow: auto;
         text-decoration: none;
         font-weight: bold;
         -webkit-border-radius: 12px;
