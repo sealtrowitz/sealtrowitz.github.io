@@ -74,12 +74,9 @@ h2 {
 	    border-radius: 10%;
         position: relative;
         margin: 10% auto;
-        padding: 5px 5px 5px 5px;
+        padding: 5px 5px 10px 10px;
         border-radius: 10px;
         background: #eee;
-        background: -moz-linear-gradient(#eee, #999);
-        background: -webkit-linear-gradient(#eee, #999);
-        background: -o-linear-gradient(#eee, #999);
 	overflow: auto;
     }
 
