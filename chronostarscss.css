@@ -1,4 +1,6 @@
-body {background-color: #000000;
+body {background: #000000 url("https://i.imgur.com/RHpd1bk.png") repeat;
+max-width: 900px;
+margin: auto;
 }
 
 .button {
