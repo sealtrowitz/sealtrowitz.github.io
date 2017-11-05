@@ -6,8 +6,8 @@
 <link href="https://fonts.googleapis.com/css?family=Cuprum" rel="stylesheet"> 
 <body>
 
-    <button id="mainNav" class="tlplanet">About</button>
-    <div id="topplePop" class="modal">
+    <button id="aboutMe" class="tlplanet">About</button>
+    <div id="aboutPop" class="modal">
            <div class="modal-content">
     <span class="close">&times;</span>
                <p>please tell me this one says something different</p>
@@ -54,9 +54,15 @@
     <script>
 // Get the modal
 var modal = document.getElementById('topplePop');
+        
+// Get the second modal
+var modal = document.getElementById('aboutPop');
 
 // Get the button that opens the modal
 var btn = document.getElementById("mainNav");
+        
+// Get the button that opens the second modal
+var btn = document.getElementById("aboutMe");
 
 // Get the <span> element that closes the modal
 var span = document.getElementsByClassName("close")[0];
