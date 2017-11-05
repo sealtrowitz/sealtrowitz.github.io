@@ -61,6 +61,7 @@ h2 {
         -moz-transition: opacity 400ms ease-in;
         transition: opacity 400ms ease-in;
         pointer-events: none;
+	overflow: auto;
     }
 
     .modalDialog:target {
@@ -78,6 +79,7 @@ h2 {
         background: -moz-linear-gradient(#fff, #999);
         background: -webkit-linear-gradient(#fff, #999);
         background: -o-linear-gradient(#fff, #999);
+	    overflow: auto;
     }
 
     .close {
@@ -88,7 +90,6 @@ h2 {
         right: -12px;
         top: -10px;
         width: 24px;
-	    overflow: auto;
         text-decoration: none;
         font-weight: bold;
         -webkit-border-radius: 12px;
