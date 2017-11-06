@@ -17,6 +17,9 @@ body {
      -webkit-transition: background-color 2s; /* safari */
      -moz-transition: background-color 2s; /* firefox */
      -o-transition: background-color 2s; /* opera. literally who the fuck uses opera */
+	color: #1e1e1e;
+	font-size: 35px;
+        font-family: cuprum;
 }
 
 /*the sun hover*/
@@ -31,6 +34,9 @@ body {
 	left: 50%;
 	margin-top: -185px;
 	margin-left: -185px;
+	color: #eee;
+	font-size: 35px;
+        font-family: cuprum;
 }
 /*top left planet*/
 .tlplanet {
