@@ -39,7 +39,7 @@ body {
 	font-size: 35px;
         font-family: cuprum;
 }
-/*first planet. planets start on the top left and move clockwise around toppleking*/
+/*first planet. planets start on the top left and move clockwise around toppleking.*/
 .planet1 {
     height: 105px;
     width: 105px;
@@ -63,7 +63,7 @@ body {
 	top: 50%;
 	left: 50%;
 	margin-top: -310px;
-	margin-right: -320px;
+	margin-left: 200px;
 }
 
 /*third planet*/
@@ -76,8 +76,8 @@ body {
     position: absolute;
 	top: 50%;
 	left: 50%;
-	margin-top: -200px;
-	margin-left: 200px;
+	margin-bottom: -100px;
+	margin-left: 185px;
 }
 /*toppleking font*/
 h1 {
