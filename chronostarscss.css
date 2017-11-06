@@ -109,9 +109,10 @@ h2 {
 /*used primarily for headers within the er. the thing. you know. the popup thing*/
 h3 {
 	color:#000;
-	font-size: 20px;
+	font-size: 40px;
 	font-family: cuprum;
 	font-decoration: bold;
+	text-align:center;
 }
 
 /*centered text. like, absolute center. like the names on the planets*/
