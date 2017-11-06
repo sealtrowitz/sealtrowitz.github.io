@@ -39,8 +39,8 @@ body {
 	font-size: 35px;
         font-family: cuprum;
 }
-/*top left planet*/
-.tlplanet {
+/*first planet. planets start on the top left and move clockwise around toppleking*/
+.planet1 {
     height: 105px;
     width: 105px;
     box-shadow: 0px 0px 10px 5px rgba(255, 255, 190, .75);
@@ -52,8 +52,8 @@ body {
 	margin-top: -255px;
 	margin-left: -300px;
 }
-/*top middle planet*/
-.tmplanet {
+/*second planet*/
+.planet2 {
 	height: 85px;
     width: 85px;
     box-shadow: 0px 0px 10px 5px rgba(255, 255, 190, .75);
@@ -66,8 +66,8 @@ body {
 	margin-right: -320px;
 }
 
-/*top right planet*/
-.trplanet {
+/*third planet*/
+.planet3 {
     height: 100px;
     width: 100px;
     box-shadow: 0px 0px 10px 5px rgba(255, 255, 190, .75);
@@ -102,7 +102,7 @@ h2 {
 	font-family: cuprum;
 	position: absolute;
 	top:25%;
-        left:25%;
+        left:15%;
 }
 	
 .modalDialog {
