@@ -139,7 +139,7 @@ p {
     transform: translate(-50%, -50%);
 }
 
-/*author picture in the about page*/
+/*author picture in the about page. image doesnt resize so you have to put the height and width of the image*/
 .aboutpic {
 	width: 250px;
 	height: 213px;
