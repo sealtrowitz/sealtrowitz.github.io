@@ -145,9 +145,10 @@ p {
 	height: 213px;
     background-image: url("carolinepic.png");
     float:left;
-        padding-right: 10px;
+        padding-right: 3px;
 	border: 1px solid #000;
 	border-radius: 10px;
+	overflow:hidden;
 	
 }
 	
