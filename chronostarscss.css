@@ -84,7 +84,7 @@ h1 {
 	font-size: 35px;
 	font-family: cuprum;
 	position: absolute;
-	top:25%;
+	top:35%;
 	left:25%;
 }
 /*toppleking hover font*/
@@ -92,7 +92,7 @@ h1:hover {
 	font-size: 35px;
 	font-family: cuprum;
 	position: absolute;
-	top:25%;
+	top:35%;
 	left:25%;
 }
 /*other planets font*/
