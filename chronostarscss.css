@@ -95,14 +95,10 @@ body {
 }
 /*toppleking font*/
 h1 {
-	font-size: 35px;
+	font-size: 33px;
 	font-family: cuprum;
 }
-/*toppleking hover font*/
-h1:hover {
-	font-size: 35px;
-	font-family: cuprum;
-}
+
 /*other planets font*/
 h2 {
 	color: #1e1e1e;
