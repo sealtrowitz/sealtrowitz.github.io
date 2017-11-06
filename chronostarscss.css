@@ -143,11 +143,11 @@ p {
 .aboutpic {
 	height:170px;
 	width:200px;
-    background-image: url("carolinepic.png");
+    background-image: url("carolinepic.png") norepeat;
     float:left;
+    padding: 3px 3px 3px 3px;
 	border: 1px solid #000;
 	border-radius: 10px;
-	padding: 3px;
 	
 }
 	
