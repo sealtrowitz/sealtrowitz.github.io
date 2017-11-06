@@ -38,8 +38,8 @@ body {
     position: absolute;
 	top: 50%;
 	left: 50%;
-	margin-top: 255px;
-	margin-left: 300px;
+	margin-top: -220px;
+	margin-right: -300px;
 }
 /*toppleking font*/
 h1 {
