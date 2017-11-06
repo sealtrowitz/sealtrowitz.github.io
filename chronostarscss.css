@@ -106,6 +106,14 @@ h2 {
 	font-family: cuprum;
 }
 
+/*used primarily for headers within the er. the thing. you know. the popup thing*/
+h3 {
+	color:#000;
+	font-size: 20px;
+	font-family: cuprum;
+	font-decoration: bold;
+}
+
 /*centered text. like, absolute center. like the names on the planets*/
 .centered {
     position: absolute;
