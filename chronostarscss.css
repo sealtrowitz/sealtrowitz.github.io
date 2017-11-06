@@ -9,7 +9,6 @@ body {
     box-shadow: 0px 0px 15px 5px rgba(255, 255, 190, .75);
     border-radius: 50%;
     background-color: #ffffff;
-	text-position:absolute;
     position: absolute;
 	top: 50%;
 	left: 50%;
@@ -22,6 +21,7 @@ body {
 	color: #1e1e1e;
 	font-size: 35px;
         font-family: cuprum;
+    text-align: center;
 }
 
 /*the sun hover*/
