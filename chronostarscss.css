@@ -115,6 +115,23 @@ h3 {
 	text-align:center;
 }
 
+/*in case you need a mini-header*/
+h4 {
+	color:#000;
+	font-size: 20px;
+	font-family: cuprum;
+	font-decoration: bold underline;
+	text-align:center;
+}
+
+/*all basic text should go in these tags*/
+p {
+	color:#000;
+	font-size: 12px;
+	font-family: sans-serif;
+	text-align:justify;
+}
+
 /*centered text. like, absolute center. like the names on the planets*/
 .centered {
     position: absolute;
