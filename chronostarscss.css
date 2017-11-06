@@ -76,8 +76,22 @@ body {
     position: absolute;
 	top: 50%;
 	left: 50%;
-	margin-top: 525px;
+	margin-top: 225px;
 	margin-left: 185px;
+}
+
+/*fourth planet*/
+.planet4 {
+    height: 110px;
+    width: 110px;
+    box-shadow: 0px 0px 10px 5px rgba(255, 255, 190, .75);
+    border-radius: 50%;
+    background-color: #f8f8f8;
+    position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: 225px;
+	margin-left: -320px;
 }
 /*toppleking font*/
 h1 {
