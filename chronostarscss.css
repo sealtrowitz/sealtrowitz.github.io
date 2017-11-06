@@ -9,6 +9,7 @@ body {
     box-shadow: 0px 0px 15px 5px rgba(255, 255, 190, .75);
     border-radius: 50%;
     background-color: #ffffff;
+	text-position:absolute;
     position: absolute;
 	top: 50%;
 	left: 50%;
@@ -16,7 +17,7 @@ body {
 	margin-left: -185px;
      -webkit-transition: background-color 2s; /* safari */
      -moz-transition: background-color 2s; /* firefox */
-     -o-transition: background-color 2s; /* opera. literally who the fuck uses opera */
+     -o-transition: background-color 2s; /* opera. literally who the fuck uses opera? also one of these is chrome but idk which */
 	color: #1e1e1e;
 	font-size: 35px;
         font-family: cuprum;
