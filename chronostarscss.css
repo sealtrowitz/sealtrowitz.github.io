@@ -143,9 +143,9 @@ p {
 .aboutpic {
 	height:170px;
 	width:200px;
-    background-image: url("carolinepic.png") norepeat;
+    background-image: url("carolinepic.png");
     float:left;
-    padding: 3px 3px 3px 3px;
+    padding: 10px;
 	border: 1px solid #000;
 	border-radius: 10px;
 	
