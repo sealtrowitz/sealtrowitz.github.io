@@ -141,8 +141,8 @@ p {
 
 /*author picture in the about page*/
 .aboutpic {
-	height: 50%;
-	width: 50%;
+	width: 250px;
+	height: 213px;
     background-image: url("carolinepic.png");
     float:left;
         padding-right: 10px;
