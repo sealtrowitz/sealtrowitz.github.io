@@ -106,7 +106,7 @@ h2 {
 	font-family: cuprum;
 }
 
-/*centered text*/
+/*centered text. like, absolute center. like the names on the planets*/
 .centered {
     position: absolute;
     top: 50%;
