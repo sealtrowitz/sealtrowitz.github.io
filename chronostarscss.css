@@ -119,8 +119,8 @@ h4 {
 	color:#000;
 	font-size: 20px;
 	font-family: cuprum;
-	text-decoration: underline;
 	text-align:center;
+	border-bottom:2px solid #000;
 }
 
 /*all basic text should go in these tags*/
