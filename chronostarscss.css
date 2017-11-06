@@ -41,6 +41,20 @@ body {
 	margin-top: -310px;
 	margin-right: -320px;
 }
+
+/*top right planet*/
+.trplanet {
+    height: 100px;
+    width: 100px;
+    box-shadow: 0px 0px 10px 5px rgba(255, 255, 190, .75);
+    border-radius: 50%;
+    background-color: #ffffff;
+    position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -240px;
+	margin-right: -520px;
+}
 /*toppleking font*/
 h1 {
 	color: #1e1e1e;
