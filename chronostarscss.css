@@ -78,6 +78,15 @@ h1 {
 	top:25%;
 	left:25%;
 }
+/*toppleking hover font*/
+h1:hover {
+	color: #eee;
+	font-size: 35px;
+	font-family: cuprum;
+	position: absolute;
+	top:25%;
+	left:25%;
+}
 /*other planets font*/
 h2 {
 	color: #1e1e1e;
