@@ -15,9 +15,10 @@ body {
 	left: 50%;
 	margin-top: -185px;
 	margin-left: -185px;
-     -webkit-transition: background-color 2s; /* safari */
+     -webkit-transition: background-color 2s; /* safari and chrome */
      -moz-transition: background-color 2s; /* firefox */
-     -o-transition: background-color 2s; /* opera. literally who the fuck uses opera? also one of these is chrome but idk which */
+     -ms-transition: background-color 2s; /* internet explorer (shame on you) */
+     -o-transition: background-color 2s; /* opera. literally who the fuck uses opera */
 	color: #1e1e1e;
 	font-size: 35px;
         font-family: cuprum;
