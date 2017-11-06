@@ -14,6 +14,9 @@ body {
 	left: 50%;
 	margin-top: -185px;
 	margin-left: -185px;
+     -webkit-transition: background-color 2s; /* safari */
+     -moz-transition: background-color 2s; /* firefox */
+     -o-transition: background-color 2s; /* opera. literally who the fuck uses opera */
 }
 
 /*the sun hover*/
