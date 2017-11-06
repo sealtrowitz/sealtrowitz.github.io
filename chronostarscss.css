@@ -21,7 +21,6 @@ body {
 	color: #1e1e1e;
 	font-size: 35px;
         font-family: cuprum;
-    text-align: center;
 }
 
 /*the sun hover*/
@@ -82,7 +81,6 @@ body {
 }
 /*toppleking font*/
 h1 {
-	color: #1e1e1e;
 	font-size: 35px;
 	font-family: cuprum;
 	position: absolute;
@@ -91,7 +89,6 @@ h1 {
 }
 /*toppleking hover font*/
 h1:hover {
-	color: #eee;
 	font-size: 35px;
 	font-family: cuprum;
 	position: absolute;
