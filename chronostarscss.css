@@ -141,13 +141,11 @@ p {
 
 /*author picture in the about page*/
 .aboutpic {
-	height: 100%;
-	width: 100%;
-	max-height: 200px;
-	max-width: 170px;
+	height: 50%;
+	width: 50%;
     background-image: url("carolinepic.png");
     float:left;
-        padding-right: 3px;
+        padding-right: 10px;
 	border: 1px solid #000;
 	border-radius: 10px;
 	
